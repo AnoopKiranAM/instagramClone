@@ -1,2 +1,4 @@
 # instagram-in-react
-Source code for creating Instagram home page in React. Used in my Youtube tutorial found here: https://youtu.be/6sFTbTAVn5M
+### It uses mostly dummy content with imaginary names
+### Just a frontned app using React. Not conneting to any data base. Mainly done for understading React Concepts
+
